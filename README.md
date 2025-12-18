@@ -21,7 +21,11 @@
 </div>
 <div align='center'>
 
-![Snake animation](https://github.com/VictorCharles/VictorCharles/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorCharles/VictorCharles/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorCharles/VictorCharles/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VictorCharles/VictorCharles/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img style="margin-right:1em;" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"  />
 <img style="margin-right:1em;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
