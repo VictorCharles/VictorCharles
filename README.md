@@ -1,9 +1,9 @@
-
 <h1 align='center'>
  Opa, Seja bem vindo ao meu Github!!
 </h1>
 
-<p align='center'>
+## Contatos:
+
   <a target="_blank" href="https://www.linkedin.com/in/victorcharle/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
@@ -11,11 +11,18 @@
   <img src="https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badge&logo=Stackoverflow&logoColor=white" />
   </a>
   &nbsp;
-
-</p>
+  <a href = "mailto:vcharles923@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <hr style="margin-bottom:1.5em">
+<div>
+<a href="https://github.com/VictorCharles">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCharles&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorCharles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 <div align='center'>
+
+![Snake animation](https://github.com/VictorCharles/VictorCharles/blob/output/github-contribution-grid-snake.svg)
+
 <img style="margin-right:1em;" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"  />
 <img style="margin-right:1em;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img style="margin-right:1em;" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
